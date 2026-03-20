@@ -48,8 +48,8 @@ CanastaList utiliza un sistema de inicio de sesión anónimo y seguro. Tus datos
 ---
 
 ## 👨‍💻 Desarrollado por
-**[Tu Nombre/BRAYANEXE]**
+**[Brayan Velazquez]**
 *Enfocado en crear soluciones móviles que faciliten el día a día.*
 
 ---
-> *Este proyecto forma parte de mi portafolio profesional como Desarrollador Android Senior.*
+> *Este proyecto forma parte de mi portafolio profesional como Desarrollador Android.*
